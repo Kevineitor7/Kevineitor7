@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/media/5Zesu5VPNGJlm/giphy.webp)
+<h1 align="center"><img src="https://i.giphy.com/media/5Zesu5VPNGJlm/giphy.webp" alt="gif"/></h1>
 <h1 align="center">Hi 👋, I'm Kevin Campa</h1>
 <h3 align="center">Frontend Developer</h3>
 
