@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevineitor7&label=Profile%20views&color=0e75b6&style=flat" alt="kevineitor7" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://kevineitor7.github.io/portfolio/](https://kevineitor7.github.io/portfolio/)
 
 - 📫 How to reach me **qeven03@gmail.com**
